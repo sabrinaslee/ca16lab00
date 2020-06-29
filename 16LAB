@@ -1,0 +1,24 @@
+Last login: Mon Jun 29 14:07:18 on ttys008
+(base) Sabrinas-Air:~ sabrinalee$ emacs
+(base) Sabrinas-Air:~ sabrinalee$ emacs
+(base) Sabrinas-Air:~ sabrinalee$ g++ -o hello hello.cpp
+(base) Sabrinas-Air:~ sabrinalee$ ./hello
+Hello, World!
+I am ready for CS16!
+(base) Sabrinas-Air:~ sabrinalee$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
